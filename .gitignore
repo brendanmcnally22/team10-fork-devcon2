@@ -2,3 +2,6 @@
 /[Aa]rtifacts/
 /[Bb]uild/
 /[Bb]uilds/[Cc]odeCoverage/
+
+# Ignore Obsidian editor settings as we only need .md file
+.obsidian/ 
